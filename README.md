@@ -1,6 +1,8 @@
 # to_xml
 array php to simple xml
 
+first : you must know about xml rules
+
 ### example
 ```
 <?php
